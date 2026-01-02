@@ -1,0 +1,37 @@
+body {
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+.clear-btn {
+    margin-top: 60px;
+}
+
+.header {
+    margin-top: 110px;
+    font-weight: bold;
+    font-size: 65px;
+    border: 1px solid blue;
+    padding: 5px;
+    
+}
+
+.input-body {
+    margin-top: 50px;
+    display: block;
+   
+}
+
+.result {
+    display: block;
+}
